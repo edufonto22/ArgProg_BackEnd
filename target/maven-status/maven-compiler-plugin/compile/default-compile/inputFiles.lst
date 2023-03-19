@@ -1,24 +1,34 @@
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Entity\Persona.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Dto\JwtDto.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Service\ImpPersonaService.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Enums\RolNombre.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Dto\LoginUsuario.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\jwt\JwtEntryPoint.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Repository\IPersonaRepository.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Controller\AuthController.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Repository\iUsuarioRepository.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Controller\Mensaje.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\jwt\JwtProvider.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Interface\IPersonaService.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\EpfApplication.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Service\UsuarioService.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Controller\PersonaController.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\jwt\JwtTokenFilter.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Service\UserDetailsImpl.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Dto\NuevoUsuario.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Entity\Rol.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Service\RolService.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Entity\UsuarioPrincipal.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Repository\iRolRepository.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\MainSecurity.java
-C:\Users\edu_f\OneDrive\Documents\Wehacker\Proyecto Integrador\BackEnd\EPF\EPF\src\main\java\com\portfolio\EPF\Security\Entity\Usuario.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Dto\DtoEducacion.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Entity\Experiencia.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Entity\Educacion.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Controller\CExperiencia.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Repository\iUsuarioRepository.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Repository\iRolRepository.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Entity\Rol.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Dto\NuevoUsuario.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Service\SExperiencia.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\jwt\JwtTokenFilter.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Controller\PersonaController.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\jwt\JwtProvider.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Entity\UsuarioPrincipal.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Service\UserDetailsImpl.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Service\Seducacion.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Controller\Mensaje.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Enums\RolNombre.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Repository\IPersonaRepository.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Entity\Persona.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Controller\CEducacion.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Interface\IPersonaService.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Dto\LoginUsuario.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Repository\RExperiencia.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Dto\DtoExperiencia.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\MainSecurity.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Entity\Usuario.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Service\RolService.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Service\ImpPersonaService.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Dto\JwtDto.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Controller\AuthController.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\EpfApplication.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Repository\REducacion.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\Service\UsuarioService.java
+C:\Users\edu_f\OneDrive\Documents\ProyectoAP\BackEnd\src\main\java\com\portfolio\EPF\Security\jwt\JwtEntryPoint.java
