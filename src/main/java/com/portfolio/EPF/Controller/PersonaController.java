@@ -43,7 +43,7 @@ public class PersonaController {
         Persona persona = personaService.getOne(id).get();
         return new ResponseEntity(persona, HttpStatus.OK);
     }
-    /*
+    
     @PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody DtoPersona dtopersona){
         if(StringUtils.isBlank(dtopersona.getNombre()))
@@ -57,7 +57,7 @@ public class PersonaController {
         return new ResponseEntity(new Mensaje("Persona agregada"), HttpStatus.OK);
            
     }
-    */
+    
     
     
     @PutMapping("/update/{id}")
