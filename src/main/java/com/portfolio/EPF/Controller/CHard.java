@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 //@CrossOrigin(origins = "http://localhost:4200")
-@CrossOrigin(origins = "https://frontendepf.web.app")
-@RequestMapping("/hskill")
+@CrossOrigin(origins = "https://frontendepf.web.app/")
+@RequestMapping("hskill")
 public class CHard {
 
     @Autowired
