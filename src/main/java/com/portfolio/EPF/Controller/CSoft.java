@@ -22,10 +22,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("sskill")
 //@CrossOrigin(origins = "http://localhost:4200")
 @CrossOrigin(origins = "https://frontendepf.web.app/")
-
+@RequestMapping("sskill")
 public class CSoft {
 
     @Autowired
